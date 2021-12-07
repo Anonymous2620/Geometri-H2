@@ -1,0 +1,7 @@
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\bin\Debug\Geometry.exe
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\bin\Debug\Geometry.pdb
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\obj\Debug\Geometry.exe
+C:\Users\simr0026\Downloads\Geometry-master\Geometry\obj\Debug\Geometry.pdb
